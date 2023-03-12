@@ -2,3 +2,7 @@ class java
 {
  \\\java123
 }
+class java
+{
+ \\\java123
+}
